@@ -54,7 +54,13 @@ Label -> 스팸 메일인 경우 Label = 1, 스팸 메일이 아닌 경우 Label
 </details>
 <details>
 <summary><h3>결론</h3></summary>
-<div></div>
+<div>
+
+- 각각의 모델은 훌륭한 텍스트 분류 모델이다. RNN CNN은 텍스트의 문맥을 파악하며 확인할 수 있는 모델이고 나이브베이즈는 베이즈 정리를 통해 나온 모델로써 확률을 통한 모델..
+- 추후 프로젝트를 위한 모델은 추가적인 분석 필요... 
+- 각각의 장점이 많다...
+
+</div>
 </details>
 <details>
 <summary>참고</summary>
